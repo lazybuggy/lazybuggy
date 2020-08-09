@@ -1,5 +1,8 @@
-![Lucia Art Image](https://github.com/lazybuggy/lazybuggy/blob/master/lu-art.png)
-## Hey 👋! 
+<p align="center">
+  <img  alt="Lucia Art Image" src="https://github.com/lazybuggy/lazybuggy/blob/master/lu-art.png" width="350"/>
+</p>
+
+## Hi there 😊 
 ### I'm Lucia, a Software Engineer located in Toronto 👩🏽‍💻🇨🇦
 
 <!--
