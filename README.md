@@ -1,3 +1,4 @@
+![Lucia Art Image](lu icon.png)
 ### Hey 👋! 
 ## I'm Lucia, a Software Engineer located in Toronto 👩🏽‍💻🇨🇦
 
