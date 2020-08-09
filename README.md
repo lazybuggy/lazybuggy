@@ -1,6 +1,6 @@
-![Lucia Art Image](lu icon.png)
-### Hey 👋! 
-## I'm Lucia, a Software Engineer located in Toronto 👩🏽‍💻🇨🇦
+![Lucia Art Image](https://github.com/lazybuggy/lazybuggy/blob/master/lu-art.png)
+## Hey 👋! 
+### I'm Lucia, a Software Engineer located in Toronto 👩🏽‍💻🇨🇦
 
 <!--
 **lazybuggy/lazybuggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
